@@ -15,17 +15,17 @@ Official homepage: [exploitfinder.com](https://exploitfinder.com)
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🔍 High-Performance HTTP/HTTPS Interception
+### High-Performance HTTP/HTTPS Interception
 Inspect, intercept, pause, and modify live HTTP/HTTPS requests and responses with minimal latency and a clean, modern interface.
 
 <p align="center">
   <img src="https://exploitfinder.com/assets/reqon-intercept.webp" alt="REQON HTTP Interception" width="100%">
 </p>
 
-### 🤖 Agentic Security Assessment & Workflows
-Streamline web application and API vulnerability testing with intelligent, automated security assessment workflows built for speed and precision.
+### Agentic Security Assessment & Workflows
+Streamline web application and API vulnerability testing with automated security assessment workflows built for speed and precision.
 
 <p align="center">
   <img src="https://exploitfinder.com/assets/reqon-agentic.webp" alt="REQON Agentic Security Assessment" width="100%">
@@ -36,7 +36,7 @@ Streamline web application and API vulnerability testing with intelligent, autom
 
 ---
 
-## 📦 Installation (Linux / Ubuntu)
+## Installation (Linux / Ubuntu)
 
 ### Option 1: Debian / Ubuntu (`.deb` package) — Recommended
 
