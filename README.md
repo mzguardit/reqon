@@ -13,6 +13,10 @@ Official homepage: [exploitfinder.com](https://exploitfinder.com)
   <img src="https://exploitfinder.com/assets/reqon-hero.webp" alt="REQON Overview" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://github.com/mzguardit/reqon/blob/main/REQON1.1.png" alt="REQON Overview" width="100%">
+</p>
+
 ---
 
 ## Key Features
