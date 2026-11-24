@@ -14,7 +14,7 @@ Official homepage: [exploitfinder.com](https://exploitfinder.com)
 </p>
 
 <p align="center">
-  <img src="https://github.com/mzguardit/reqon/blob/main/REQON1.1.png" alt="REQON Overview" width="100%">
+  <img src="https://github.com/mzguardit/reqon/blob/main/REQON_AGENT_PENTEST.png" alt="REQON Overview" width="100%">
 </p>
 
 ---
