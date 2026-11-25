@@ -32,7 +32,7 @@ Inspect, intercept, pause, and modify live HTTP/HTTPS requests and responses wit
 Streamline web application and API vulnerability testing with automated security assessment workflows built for speed and precision.
 
 <p align="center">
-  <img src="https://exploitfinder.com/assets/reqon-agentic.webp" alt="REQON Agentic Security Assessment" width="100%">
+  <img src="https://github.com/mzguardit/reqon/blob/main/REQON1.1.Agent-Pentest.png?raw=true" alt="REQON Agentic Security Assessment" width="100%">
 </p>
 
 - **Fast Native Experience:** Designed for speed and clarity without heavy legacy runtimes.
