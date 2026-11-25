@@ -12,11 +12,6 @@ Official homepage: [exploitfinder.com](https://exploitfinder.com)
 <p align="center">
   <img src="https://exploitfinder.com/assets/reqon-hero.webp" alt="REQON Overview" width="100%">
 </p>
-
-<p align="center">
-  <img src="https://github.com/mzguardit/reqon/blob/main/REQON_AGENT_PENTEST.png" alt="REQON Overview" width="100%">
-</p>
-
 ---
 
 ## Key Features
@@ -34,6 +29,11 @@ Streamline web application and API vulnerability testing with automated security
 <p align="center">
   <img src="https://github.com/mzguardit/reqon/blob/main/REQON1.1.Agent-Pentest.png?raw=true" alt="REQON Agentic Security Assessment" width="100%">
 </p>
+
+<p align="center">
+  <img src="https://github.com/mzguardit/reqon/blob/main/REQON_AGENT_PENTEST.png" alt="REQON Overview" width="100%">
+</p>
+
 
 - **Fast Native Experience:** Designed for speed and clarity without heavy legacy runtimes.
 - **Flexible Linux Packaging:** Available as `.deb`, `.AppImage`, and portable `.tar.gz`.
